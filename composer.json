@@ -1,5 +1,5 @@
 {
-    "name": "bhavin/ee-highlight-word",
+    "name": "bhavin-thummar/ee-highlight-word",
     "description": "This plugin gives facility of highlighting words and also highlight by custom CSS for the Expresssionengine.",
     "require": {
         "php": ">=5.6"
